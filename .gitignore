@@ -4,8 +4,8 @@ node_modules/
 # Compiled output - recreated with npm run build
 dist/
 
-#environment variables - contains secrets (database password ,api keys)
-.end
+#environment variables - contains secrets (database password, api keys)
+.env
 
 #os files
 .DS_Store
