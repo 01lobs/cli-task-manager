@@ -1,0 +1,17 @@
+# Dependencies - recreated with npm install
+node_modules/
+
+# Compiled output - recreated with npm run build
+dist/
+
+#environment variables - contains secrets (database password ,api keys)
+.end
+
+#os files
+.DS_Store
+
+#log files
+*.log
+
+#editor settings (optional -some teams commit this ,,some don't)
+.vscode/
